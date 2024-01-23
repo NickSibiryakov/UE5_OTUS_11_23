@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/LayOutsHomework_01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Unreal Projects/LayOutsHomework_01/Content/Levels/ExistingGameLevel_01.umap",
+				"E:/Unreal Projects/LayOutsHomework_01/Content/StarterContent/Maps/Dust2Remake.umap",
+				"E:/Unreal Projects/LayOutsHomework_01/Content/Homework/Dust2Remake.umap",
+				"E:/Unreal Projects/LayOutsHomework_01/Content/Homework/StarterMap1.umap",
+				"E:/Unreal Projects/LayOutsHomework_01/Content/Homework/PersonalMap_01.umap",
+				"E:/Unreal Projects/LayOutsHomework_01/Content/MyMesh/Box_Brush2_StaticMesh.uasset",
+				"E:/Unreal Projects/LayOutsHomework_01/Content/MyMesh/Cone_Brush_StaticMesh.uasset",
+				"E:/Unreal Projects/LayOutsHomework_01/Content/MyMesh/Cylinder_Brush_StaticMesh.uasset"
+			]
+		}
+	]
+}
